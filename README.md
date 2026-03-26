@@ -15,3 +15,5 @@ Objective: Score as many goals as possible while defending your own net.
 
 
 This project is perfect for anyone looking to explore game development in Unity or to create a fun, local multiplayer experience. You can expand it further by adding animations, sound effects, or even online multiplayer. Overall, it demonstrates a mix of programming, game design, and problem-solving skills, making it an ideal project for both learning and showcasing your Unity abilities.
+
+c# , unity
